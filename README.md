@@ -14,7 +14,7 @@ Hello World!!!!!!!
 </a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=F0DB4F">
 </a> 
 
 <a href="https://github.com/harish-sethuraman/readme-components">
