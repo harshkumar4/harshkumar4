@@ -48,3 +48,12 @@ Hello World!!!!!!!
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=29A1C5">  
 </a>
+
+## Interests -
+
+- Gaming
+- Coding
+- Anime
+- Music
+- Reading
+- Learning
