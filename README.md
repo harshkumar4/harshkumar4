@@ -25,7 +25,7 @@ Hello World!!!!!!!
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=0553B1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=FFE873">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
