@@ -17,11 +17,11 @@ Hello World!!!!!!!
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=027DFD">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0553B1">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
