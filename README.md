@@ -34,6 +34,10 @@ Hello World!!!!!!!
 ## Hands on -
 
 <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=276DC2">
+</a>
+
+<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=FFE873">
 </a>
 
