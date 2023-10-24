@@ -1,11 +1,6 @@
 Hello World!!!!!!!
 
 ## Working on -
-
-<p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=spin&svgfill=2d79c7">
@@ -28,6 +23,12 @@ Hello World!!!!!!!
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&animation=spin&svgfill=F5820D">  
+</a>
+
+## Hands on -
+
+<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=FFE873">
 </a>
 
@@ -35,12 +36,6 @@ Hello World!!!!!!!
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&animation=spin&svgfill=092E20">
 </a>
 
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&animation=spin&svgfill=F5820D">  
-</a>
-
-## Hands on -
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&animation=spin&svgfill=EC4B3C">  
 </a>
