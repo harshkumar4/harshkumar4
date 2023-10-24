@@ -25,11 +25,11 @@ Hello World!!!!!!!
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=0553B1">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=092E20">
 </a>
 
 
