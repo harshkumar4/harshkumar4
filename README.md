@@ -55,9 +55,9 @@
 
 ## Projects - 
 
-| <img  src="harshkumar4/harshkumar4/assets/eazypizy.png">  |
+| <img  src="https://github.com/harshkumar4/harshkumar4/blob/main/assets/eazypizy.png">  |
 |--------|
-| Alice  |
+| **Eazypizy**  |
 | Bob    |
 | Charlie|
 
