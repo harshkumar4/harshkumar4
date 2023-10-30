@@ -53,10 +53,6 @@
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=29A1C5">  
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=playstore&animation=spin&svgfill=29A1C5">  
-</a>
-
 ## Projects - 
 
 | <img  src="https://github.com/harshkumar4/harshkumar4/blob/main/assets/eazypizy.png">  |
