@@ -58,7 +58,7 @@
 | Alice  | 25  | New York     |
 | Bob    | 30  | Los Angeles  |
 | Charlie| 28  | San Francisco|
-| https://avatars.githubusercontent.com/u/68079139?v=4 |
+| <img src="https://avatars.githubusercontent.com/u/68079139?v=4"> |
 
 ## Interests -
 
