@@ -50,16 +50,17 @@
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=29A1C5">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=swing&svgfill=29A1C5">  
 </a>
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=playstore&logoColor=0077B5" alt="LinkedIn logo" height="25" />](https://play.google.com/store/apps/details?id=in.customers.eazypizy)
 
 ## Projects - 
 
 | <img  src="https://github.com/harshkumar4/harshkumar4/blob/main/assets/eazypizy.png">  |
 |--------|
 | **Eazypizy**  |
-| Bob    |
-| Charlie|
 
 
 ## Interests -
