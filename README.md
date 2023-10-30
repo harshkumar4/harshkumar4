@@ -53,13 +53,6 @@
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=29A1C5">  
 </a>
 
-| Name   | Age | Location     |
-|--------|-----|--------------|
-| Alice  | 25  | New York     |
-| Bob    | 30  | Los Angeles  |
-| Charlie| 28  | San Francisco|
-| <img src="https://avatars.githubusercontent.com/u/68079139?v=4"> |
-
 ## Interests -
 
 - Gaming
