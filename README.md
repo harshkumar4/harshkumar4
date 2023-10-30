@@ -53,6 +53,15 @@
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=29A1C5">  
 </a>
 
+## Projects - 
+
+| <img  src="harshkumar4/harshkumar4/assets/eazypizy.png">  |
+|--------|
+| Alice  |
+| Bob    |
+| Charlie|
+
+
 ## Interests -
 
 - Gaming
